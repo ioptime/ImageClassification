@@ -14,3 +14,13 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+## References
+
+https://pub.dev/packages/tflite
+
+https://github.com/TechieBlossom/flightapp
+
+https://dribbble.com/shots/5662956-Flight-Tickets-Deal-Tracker-App-Day-340-365-Project365
+
+https://github.com/shaqian/flutter_tflite/tree/master/example
