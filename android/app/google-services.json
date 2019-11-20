@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "625736209558",
+    "firebase_url": "https://flutterfire-aaf08.firebaseio.com",
+    "project_id": "flutterfire-aaf08",
+    "storage_bucket": "flutterfire-aaf08.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:625736209558:android:56c8246241eeb37de79eb7",
+        "android_client_info": {
+          "package_name": "com.example.imageclassificationapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "625736209558-ttf247ugpm0ul9fp3ehrja8splqc3u2n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHg7WyaB4MTqojKxFqM7ljIvcGmlXKKWE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "625736209558-ttf247ugpm0ul9fp3ehrja8splqc3u2n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
